@@ -1,8 +1,8 @@
 {
   "redirects": [
     {
-      "source": "/path/to/redirect",
-      "destination": "https://newurl.com",
+      "source": "/(.*)",
+      "destination": "https://drive.google.com/drive/folders/1SQWNTp5jraojzqx-IDr-FlhwS24Euck9",
       "permanent": true
     }
   ]
