@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/path/to/redirect",
+      "destination": "https://newurl.com",
+      "permanent": true
+    }
+  ]
+}
